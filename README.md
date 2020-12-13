@@ -1,9 +1,5 @@
 <h1>Projeto bikcraft2019</h1>
 
-<h3>Teste de marcação de texto</h3>
-
-<p>Este foi meu primeiro projeto de web site feito através do curso de Desenvolvimento Web Completo da Origamid.</br> O estudo consisteem desenvolver um site fictício de uma empresa de custmização de bikes que se chama <strong>BIKECRAFT.</strong></p>.
-<p>Foram mais ou menos três meses de estudo apra poder desenvolver todo o projeto de site, abaixo segue o processo criativo e o passoa passo  do como foi tudo o desenvolvimento do site</P>
 
 <ul>
 	<li>Criação de Wireframes <strong>(todas as telas do site)</strong> no Photoshop, apenas com as marcações de grid e blocos cinzas.</li>
