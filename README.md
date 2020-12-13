@@ -7,9 +7,13 @@
 <ul>
 	<li>Criação de Wireframes <strong>(todas as telas do site)</strong> no Photoshop, apenas com as marcações de grid e blocos cinzas.</li>
 	<li>Criação do design dos wireframes.</li>
-	<li>Criação das primeira páginas com <strong>HTML5</strong> e <strong>CSS3.</strong></li>	
+	<li>Criação das primeira páginas com <strong>HTML5</strong> e <strong>CSS3.</strong></li>
+	<li>Criação d alguns arquivos em Javascript</li>
 	<li>Correções em <strong>CSS3</strong> na parte responsiva do site, usando <strong>@media only screen and (min-width: 768px) and (max-width: 959px)</strong></li>
 </ul>
+
+
+<p>Obs.: Irei atualizar  o proejto com PHP para poder subir futuramente no Wordpress.</p>
 
 
 
