@@ -22,16 +22,6 @@ e blocos cinzas.</li>
 <p>Obs.: Irei atualizar  o proejto com PHP para poder subir futuramente no Wordpress.</p>
 
 
-<div class="row">
-  <div class="coluna">
-    <img src="https://user-images.githubusercontent.com/67723152/102040214-e0316400-3daa-11eb-9fbe-1c64fc629416.png" alt="descrição da imagem" style="width:100%">	  
-  </div>
-  <div class="coluna">
-    <img src="https://user-images.githubusercontent.com/67723152/102040214-e0316400-3daa-11eb-9fbe-1c64fc629416.png" alt="descrição da imagem" style="width:100%">
-  </div>
-  <div class="coluna">
-    <img src="https://user-images.githubusercontent.com/67723152/102040214-e0316400-3daa-11eb-9fbe-1c64fc629416.png" alt="descrição da imagem" style="width:100%">
-  </div></div>
  
 
 
