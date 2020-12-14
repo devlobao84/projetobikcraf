@@ -10,7 +10,7 @@ O estudo consisteem desenvolver um site fictício de uma empresa de custmizaçã
 criativo e o passoa passo  do como foi tudo o desenvolvimento do site</P>
 
 
-![print_home](https://user-images.githubusercontent.com/67723152/102039842-c80d1500-3da9-1
+
 
 
 <ul>
