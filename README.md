@@ -1,16 +1,11 @@
-![marca-amarela](https://user-images.githubusercontent.com/67723152/102040214-e0316400-3daa-11eb-9fbe-1c64fc629416.png)
 
-
-<h1>Projeto bikcraft2019</h1>
+<h1 align="center">Projeto bikcraft2019</h1>
 
 <p>Este foi meu primeiro projeto de web site feito através do curso de Desenvolvimento Web
 O estudo consisteem desenvolver um site fictício de uma empresa de custmização de bikes qu
 </strong></p>
 <p>Foram mais ou menos três meses de estudo apra poder desenvolver todo o projeto de site,
 criativo e o passoa passo  do como foi tudo o desenvolvimento do site</P>
-
-
-
 
 
 <ul>
@@ -25,6 +20,18 @@ e blocos cinzas.</li>
 
 
 <p>Obs.: Irei atualizar  o proejto com PHP para poder subir futuramente no Wordpress.</p>
+
+
+<div class="row">
+  <div class="coluna">
+    <img src="https://user-images.githubusercontent.com/67723152/102040214-e0316400-3daa-11eb-9fbe-1c64fc629416.png" alt="descrição da imagem" style="width:100%">	  
+  </div>
+  <div class="coluna">
+    <img src="https://user-images.githubusercontent.com/67723152/102040214-e0316400-3daa-11eb-9fbe-1c64fc629416.png" alt="descrição da imagem" style="width:100%">
+  </div>
+  <div class="coluna">
+    <img src="https://user-images.githubusercontent.com/67723152/102040214-e0316400-3daa-11eb-9fbe-1c64fc629416.png" alt="descrição da imagem" style="width:100%">
+  </div></div>
  
 
 
