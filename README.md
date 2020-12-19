@@ -22,6 +22,8 @@ e blocos cinzas.</li>
 <p>Obs.: Irei atualizar  o proejto com PHP para poder subir futuramente no Wordpress.</p>
 
 
+
+Acesse o projeto clicando no link:  [Click me](https://devlobao84.github.io/projetobikcraf/)
  
 
 
